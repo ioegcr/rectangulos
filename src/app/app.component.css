@@ -1,0 +1,21 @@
+.rectangulo {
+  width: 150px;
+  height: 50px;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  background-color: aqua;
+  position: absolute;
+}
+
+.rectangulo:hover {
+  cursor: pointer;
+}
+
+.rectangulo.rojo {
+  background-color: red;
+}
+
+.rectangulo.azul {
+  background-color: blue;
+}
