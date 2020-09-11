@@ -1,6 +1,8 @@
 # Rectangulos
-
 Generado con [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+
+## Descripción
+- Aplicación con evento DRAG and DROP para ver si dos rectángulos colisionan.
 
 ## Dependencias
 - Manejador de paquetes NPM NodeJS (https://nodejs.org/es/)
